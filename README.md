@@ -12,4 +12,4 @@ Ne m'en voulez pas d'avoir mis les classes dans le même header car c'est unique
 Vous trouverez également le fichier tasks.json contenant les paramètres de build.
 Vous aurez besoin de g++ afin de compiler sous VS Code.
 
-# NewenPoi
+Newen
